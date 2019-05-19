@@ -2,7 +2,7 @@
  * Copyright (c) 2019 Yifan(Erik) Zuo.  All rights reserved.
  */
 
-package com.erikzuo.btcmarket
+package com.erikzuo.btcmarkets
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

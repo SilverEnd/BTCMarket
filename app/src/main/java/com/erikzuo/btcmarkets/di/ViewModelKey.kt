@@ -3,7 +3,7 @@
  * Copyright (c) 2019 Yifan(Erik) Zuo.  All rights reserved.
  */
 
-package com.erikzuo.btcmarket.di
+package com.erikzuo.btcmarkets.di
 
 import androidx.lifecycle.ViewModel
 import dagger.MapKey

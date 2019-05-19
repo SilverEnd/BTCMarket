@@ -2,7 +2,7 @@
  * Copyright (c) 2019 Yifan(Erik) Zuo.  All rights reserved.
  */
 
-package com.erikzuo.btcmarket.di
+package com.erikzuo.btcmarkets.di
 
 import androidx.lifecycle.ViewModelProvider
 import app.tivi.inject.BTCMarketViewModelFactory
