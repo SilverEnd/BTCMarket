@@ -2,7 +2,7 @@
  * Copyright (c) 2019 Yifan(Erik) Zuo.  All rights reserved.
  */
 
-package com.erikzuo.btcmarkets.network
+package com.erikzuo.btcmarkets.core.network
 
 /**
  * A generic class that holds a value with its loading status.

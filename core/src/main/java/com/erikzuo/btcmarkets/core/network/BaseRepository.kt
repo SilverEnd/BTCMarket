@@ -2,7 +2,7 @@
  * Copyright (c) 2019 Yifan(Erik) Zuo.  All rights reserved.
  */
 
-package com.erikzuo.btcmarkets.network
+package com.erikzuo.btcmarkets.core.network
 
 import retrofit2.HttpException
 import retrofit2.Response

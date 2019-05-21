@@ -2,7 +2,7 @@
  * Copyright (c) 2019 Yifan(Erik) Zuo.  All rights reserved.
  */
 
-package com.erikzuo.btcmarkets.di
+package com.erikzuo.btcmarkets.core.di
 
 import com.google.gson.Gson
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory

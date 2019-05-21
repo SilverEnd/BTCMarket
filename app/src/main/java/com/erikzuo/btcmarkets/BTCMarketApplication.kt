@@ -7,8 +7,8 @@ package com.erikzuo.btcmarkets
 import android.app.Activity
 import android.app.Application
 import android.content.Context
-import com.erikzuo.btcmarkets.di.CoreComponent
-import com.erikzuo.btcmarkets.di.DaggerCoreComponent
+import com.erikzuo.btcmarkets.core.di.CoreComponent
+import com.erikzuo.btcmarkets.core.di.DaggerCoreComponent
 
 class BTCMarketApplication : Application() {
 

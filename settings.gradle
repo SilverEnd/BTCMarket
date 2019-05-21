@@ -2,5 +2,5 @@
  * Copyright (c) 2019 Yifan(Erik) Zuo.  All rights reserved.
  */
 
-include ':app'
+include ':app', ':core', ':market'
 rootProject.name='BTCMarket'

@@ -6,6 +6,7 @@ package com.erikzuo.btcmarkets
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.erikzuo.btcmarkets.R
 
 class MainActivity : AppCompatActivity() {
 
